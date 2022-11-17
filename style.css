@@ -1,0 +1,40 @@
+.home{
+    background-color: rgb(253, 230, 194);
+}
+.title1{
+
+    
+    color: #ff9100;
+    font-style: italic;
+    font-weight: bold;
+    border: #2e2b26;
+    padding:30px;
+    margin: 20px;
+    text-align: center;
+}
+
+.recipelinks{
+    color: #ff9100;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    background-color: #ff9100;
+    padding: 40px;
+    
+
+    
+}
+
+.carameltitle{
+    text-align: center;
+    color: #ff9100;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.indeximage{
+
+   margin-left: 270px;
+    
+
+}
